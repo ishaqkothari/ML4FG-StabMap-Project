@@ -1,6 +1,6 @@
 # ML4FG-StabMap-Project
 
-# Replacing PCA steps in STAB-MAP data integration model with different Autoencoder frameworks
+## Replacing PCA steps in STAB-MAP (link here: https://www.nature.com/articles/s41587-023-01766-z) single-cell data integration model with different Autoencoder frameworks
 
 ## Data Sources
 See the google drive links below to download the pre-processed data sources:
